@@ -55,12 +55,5 @@ Feel free to fork this project, share your thoughts, or connect with me on [Link
 
 ---
 
-## 📌 License
-
-This project is for learning and portfolio purposes only.
-
----
-
 #️⃣ **#UIUXDesign #Figma #MobileAppDesign #Prototype #LearningByDoing**
 
-# TestZone-MobileLogin-UI
