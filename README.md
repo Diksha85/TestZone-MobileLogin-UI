@@ -19,6 +19,13 @@ The goal was to create:
 
 ---
 
+## 🔗 Live Figma Prototype
+
+👉 [**View Prototype Here**](https://www.figma.com/proto/d0bk8zA9p1yQZCe727ORnC/Lungo---Register-and-Login-Screen--Community-?node-id=2-1328&t=ODHBE7lplkoOK8pu-1)
+
+
+---
+
 ## 🎨 Screens Included
 
 ✅ Splash Screen  
